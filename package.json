@@ -1,0 +1,13 @@
+{
+  "name": "variance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "E-Liang Tan <eliang@eliangtan.com>",
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "flow"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.133.0"
+  }
+}
